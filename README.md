@@ -30,7 +30,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
     <td>
       <b><a href="https://bogieflow.vercel.app">BogieFlow</a></b> · Far Away 2026, finalist<br />
       Live digital twin for railway track-bed maintenance. Climate and vibration. React, FastAPI, WebSocket.<br />
-      <a href="https://github.com/Stormynubee/Bogieflow">Source</a>
+      <a href="https://github.com/Saylichangn/Bogieflow">Source</a>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
       <a href="https://github.com/Stormynubee/Margi"><img src="cards/margi.png" alt="NovaDrive, also called Margi. Offline-first road-safety HUD and emergency SOS." /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Stormynubee/retainiq-churnzero-26"><img src="cards/retain.png" alt="RetainIQ. Cost 68.8 percent lower than a 0.5 cutoff." /></a>
+      <a href="https://github.com/Saylichangn/retainiq-churnzero-26"><img src="cards/retain.png" alt="RetainIQ. Cost 68.8 percent lower than a 0.5 cutoff." /></a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
       Offline-first road-safety HUD and emergency SOS for when the network is already gone. React Native, Expo, TypeScript.
     </td>
     <td>
-      <b><a href="https://github.com/Stormynubee/retainiq-churnzero-26">RetainIQ</a></b> · ChurnZero, IIT Kharagpur<br />
+      <b><a href="https://github.com/Saylichangn/retainiq-churnzero-26">RetainIQ</a></b> · ChurnZero, IIT Kharagpur<br />
       Cost-aware churn model and a causal uplift layer. LightGBM and CatBoost. PR-AUC 0.9999. 4 persuadable, 141 sleeping dogs, out of 8,101.
     </td>
   </tr>
@@ -73,9 +73,9 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
 
 ## Also built
 
-**[BizCatcher](https://github.com/Stormynubee/BizCatcher)** — serverless geofencing and lead discovery. Next.js, OpenStreetMap, live filters, CSV export.
+**[BizCatcher](https://github.com/Saylichangn/BizCatcher)** — serverless geofencing and lead discovery. Next.js, OpenStreetMap, live filters, CSV export.
 
-**[MineHealth](https://github.com/Stormynubee/MineHealthftw)** — gamified life OS and study companion. JEE tracking and health logs. React, FastAPI, MongoDB.
+**[MineHealth](https://github.com/Saylichangn/MineHealthftw)** — gamified life OS and study companion. JEE tracking and health logs. React, FastAPI, MongoDB.
 
 **Desk Assistant** — physical desk companion for UMANG OS. Gesture control, recognition, focus mode, real-time feedback.
 
