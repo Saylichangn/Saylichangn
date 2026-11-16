@@ -35,7 +35,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Stormynubee/Margi"><img src="cards/margi.png" alt="NovaDrive, also called Margi. Offline-first road-safety HUD and emergency SOS." /></a>
+      <a href="https://github.com/Saylichangn/Margi"><img src="cards/margi.png" alt="NovaDrive, also called Margi. Offline-first road-safety HUD and emergency SOS." /></a>
     </td>
     <td width="50%">
       <a href="https://github.com/Saylichangn/retainiq-churnzero-26"><img src="cards/retain.png" alt="RetainIQ. Cost 68.8 percent lower than a 0.5 cutoff." /></a>
@@ -43,7 +43,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/Stormynubee/Margi">NovaDrive</a></b> · Margi, IIT Madras<br />
+      <b><a href="https://github.com/Saylichangn/Margi">NovaDrive</a></b> · Margi, IIT Madras<br />
       Offline-first road-safety HUD and emergency SOS for when the network is already gone. React Native, Expo, TypeScript.
     </td>
     <td>
