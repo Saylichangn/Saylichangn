@@ -7,6 +7,7 @@
   <a href="https://www.ycombinator.singles/"><img alt="YC Singles" src="https://img.shields.io/badge/YC_Singles-1%2C000_in_a_week-1a1814?style=flat-square" /></a>
   <a href="https://bogieflow.vercel.app"><img alt="Bedline" src="https://img.shields.io/badge/Bedline-live-1a1814?style=flat-square" /></a>
   <a href="tel:+917208201813"><img alt="Phone" src="https://img.shields.io/badge/phone-+91_7208201813-1a1814?style=flat-square" /></a>
+  <a href="https://github.com/Saylichangn/resume/blob/main/Sayli-Changan-Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-ff2d1a?style=flat-square" /></a>
 </p>
 
 Hardware on the wrist. A railway twin for the track bed. Two waitlists that filled inside a week.
