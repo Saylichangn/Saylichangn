@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://stillvoice.life/"><img alt="Still Voice" src="https://img.shields.io/badge/Still_Voice-500_in_a_week-ff2d1a?style=flat-square" /></a>
   <a href="https://www.ycombinator.singles/"><img alt="YC Singles" src="https://img.shields.io/badge/YC_Singles-1%2C000_in_a_week-1a1814?style=flat-square" /></a>
-  <a href="https://bogieflow.vercel.app"><img alt="BogieFlow" src="https://img.shields.io/badge/BogieFlow-live-1a1814?style=flat-square" /></a>
+  <a href="https://bogieflow.vercel.app"><img alt="Bedline" src="https://img.shields.io/badge/Bedline-live-1a1814?style=flat-square" /></a>
   <a href="tel:+917208201813"><img alt="Phone" src="https://img.shields.io/badge/phone-+91_7208201813-1a1814?style=flat-square" /></a>
 </p>
 
@@ -19,7 +19,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
       <img src="cards/glove.png" alt="Gesture Glove. Under 20 milliseconds from gesture to speech." />
     </td>
     <td width="50%">
-      <a href="https://bogieflow.vercel.app"><img src="cards/bogie.png" alt="BogieFlow. Far Away 2026 finalist. Railway track-bed digital twin." /></a>
+      <a href="https://github.com/Saylichangn/Bedline"><img src="cards/bogie.png" alt="Bedline. Far Away 2026 finalist. Railway track-bed digital twin." /></a>
     </td>
   </tr>
   <tr>
@@ -28,26 +28,26 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
       ESP32, flex sensors, and an IMU. C++ on the board. Gesture to speech in under 20 ms. 12+ hours on a charge.
     </td>
     <td>
-      <b><a href="https://bogieflow.vercel.app">BogieFlow</a></b> · Far Away 2026, finalist<br />
+      <b><a href="https://github.com/Saylichangn/Bedline">Bedline</a></b> · Far Away 2026, finalist<br />
       Live digital twin for railway track-bed maintenance. Climate and vibration. React, FastAPI, WebSocket.<br />
-      <a href="https://github.com/Saylichangn/Bogieflow">Source</a>
+      <a href="https://bogieflow.vercel.app">Live demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Saylichangn/Margi"><img src="cards/margi.png" alt="NovaDrive, also called Margi. Offline-first road-safety HUD and emergency SOS." /></a>
+      <a href="https://github.com/Saylichangn/Goldline"><img src="cards/margi.png" alt="Goldline. Offline-first road-safety HUD and emergency SOS." /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Saylichangn/retainiq-churnzero-26"><img src="cards/retain.png" alt="RetainIQ. Cost 68.8 percent lower than a 0.5 cutoff." /></a>
+      <a href="https://github.com/Saylichangn/Costhold"><img src="cards/retain.png" alt="Costhold. Cost 68.8 percent lower than a 0.5 cutoff." /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/Saylichangn/Margi">NovaDrive</a></b> · Margi, IIT Madras<br />
+      <b><a href="https://github.com/Saylichangn/Goldline">Goldline</a></b> · IIT Madras<br />
       Offline-first road-safety HUD and emergency SOS for when the network is already gone. React Native, Expo, TypeScript.
     </td>
     <td>
-      <b><a href="https://github.com/Saylichangn/retainiq-churnzero-26">RetainIQ</a></b> · ChurnZero, IIT Kharagpur<br />
+      <b><a href="https://github.com/Saylichangn/Costhold">Costhold</a></b> · ChurnZero, IIT Kharagpur<br />
       Cost-aware churn model and a causal uplift layer. LightGBM and CatBoost. PR-AUC 0.9999. 4 persuadable, 141 sleeping dogs, out of 8,101.
     </td>
   </tr>
@@ -73,11 +73,13 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
 
 ## Also built
 
-**[BizCatcher](https://github.com/Saylichangn/BizCatcher)** — serverless geofencing and lead discovery. Next.js, OpenStreetMap, live filters, CSV export.
+**[Leadmark](https://github.com/Saylichangn/Leadmark)** — serverless geofencing and lead discovery. Next.js, OpenStreetMap, live filters, CSV export.
 
-**[MineHealth](https://github.com/Saylichangn/MineHealthftw)** — gamified life OS and study companion. JEE tracking and health logs. React, FastAPI, MongoDB.
+**[Blockwell](https://github.com/Saylichangn/Blockwell)** — gamified life OS and study companion. JEE tracking and health logs. React, FastAPI, MongoDB.
 
-**Desk Assistant** — physical desk companion for UMANG OS. Gesture control, recognition, focus mode, real-time feedback.
+**[Hearthos](https://github.com/Saylichangn/Hearthos)** — desk assistant with gesture, recognition, focus mode, and real-time feedback.
+
+**[Clearhold](https://github.com/Saylichangn/Clearhold)** — USAII 2026 Challenge 1A. A split-pane translator for legal and medical documents.
 
 **Study sites** — [chemistry](https://ncert-chemistry-site.vercel.app/), [f-block](https://fblock-one.vercel.app/), [fluid mechanics](https://fluid-mechanics-web.vercel.app/).
 
@@ -131,7 +133,6 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
   <tr>
     <td>ISIR<br /><img alt="Qualified" src="https://img.shields.io/badge/qualified-1a1814?style=flat-square" /></td>
     <td>HackDay 1.0<br /><img alt="Qualified" src="https://img.shields.io/badge/qualified-1a1814?style=flat-square" /></td>
-    <td>Prayas<br /><img alt="Repository selected" src="https://img.shields.io/badge/repo_selected-1a1814?style=flat-square" /></td>
   </tr>
 </table>
 
@@ -139,7 +140,7 @@ Hardware on the wrist. A railway twin for the track bed. Two waitlists that fill
   <summary><b>Paper, letters, and the art wall</b></summary>
   <br />
 
-CS50, Harvard. SystemVerilog, BITS Pilani. Rhapsody Hackathon, IISc Bangalore. ChurnZero. Crisis Lens, USAII 2026 Challenge 1A. Techfest, IIT Bombay, participant. Letter of recommendation, Cornell University. IIT Bombay alumni.
+CS50, Harvard. SystemVerilog, BITS Pilani. Rhapsody Hackathon, IISc Bangalore. ChurnZero. Clearhold, USAII 2026 Challenge 1A.
 
 National awards in art and street play. Art exhibitions at Delhi Public School, 2022 and 2023. National medal, art and poetry, Birla School, Maharashtra. School medals in art. Graphic design courses.
 
